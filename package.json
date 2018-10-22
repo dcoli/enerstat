@@ -1,0 +1,22 @@
+{
+  "name": "energyhub",
+  "version": "1.0.0",
+  "description": "command line to read energyhub data in jsonl format",
+  "main": "enerstat.js",
+  "scripts": {
+    "test": "enertest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcoli/energyhub.git"
+  },
+  "author": "Colin MacAllister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcoli/energyhub/issues"
+  },
+  "homepage": "https://github.com/dcoli/energyhub#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
