@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/dcoli/energyhub#readme",
   "dependencies": {
-    "commander": "^2.19.0"
+    "commander": "^2.19.0",
+    "sequelize": "^4.41.0",
+    "sqlite3": "^4.0.3"
   }
 }

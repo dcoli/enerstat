@@ -1,0 +1,12 @@
+{"changeTime": "2016-01-01T00:30:00.001059", "after": {"ambientTemp": 79.0}, "before": {"ambientTemp": 77.0}}
+{"changeTime": "2016-01-01T00:43:00.001064", "after": {"ambientTemp": 80.0}, "before": {"ambientTemp": 79.0}}
+{"changeTime": "2016-01-01T01:32:00.009816", "after": {"ambientTemp": 81.0}, "before": {"ambientTemp": 80.0}}
+{"changeTime": "2016-01-01T01:38:00.001038", "after": {"ambientTemp": 82.0}, "before": {"ambientTemp": 81.0}}
+{"changeTime": "2016-01-01T01:44:00.001145", "after": {"ambientTemp": 81.0}, "before": {"ambientTemp": 82.0}}
+{"changeTime": "2016-01-01T02:08:30.010956", "after": {"ambientTemp": 79.0}, "before": {"ambientTemp": 81.0}}
+{"changeTime": "2016-01-01T02:47:30.002413", "after": {"ambientTemp": 77.0}, "before": {"ambientTemp": 79.0}}
+{"changeTime": "2016-01-01T03:02:30.001424", "after": {"ambientTemp": 78.0}, "before": {"ambientTemp": 77.0}}
+{"changeTime": "2016-01-01T03:08:00.007712", "after": {"ambientTemp": 80.0}, "before": {"ambientTemp": 78.0}}
+{"changeTime": "2016-01-01T03:12:30.008936", "after": {"ambientTemp": 79.0}, "before": {"ambientTemp": 80.0}}
+{"changeTime": "2016-01-01T03:18:30.001950", "after": {"schedule": true}, "before": {"schedule": false}}
+{"changeTime": "2016-01-01T03:24:30.001180", "after": {"setpoint": {"heatTemp": 67.0}}, "before": {"setpoint": {"heatTemp": 69.0}}}
